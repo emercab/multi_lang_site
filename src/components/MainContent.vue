@@ -1,0 +1,13 @@
+<template>
+  <main>
+    <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
+      <slot></slot>
+    </div>
+  </main>
+</template>
+
+<script setup>
+
+</script>
+
+<style lang="scss" scoped></style>
